@@ -15,7 +15,7 @@ bot = TelegramClient('Hack', env.API_ID,
 
 async def initiate_bot():
     global botname, botusername
-    LOGGER(__name__).info('STARTING BOT')
+    LOGGER(__name__).info('𝗛𝗲𝘆 𝗕𝗮𝗯𝘆 ....')
     try:
         await bot.start()
     except Exception as e:
