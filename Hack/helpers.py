@@ -122,7 +122,7 @@ async def join_checker(e):
             Button.url(text="Join", url=join_chat),
         ]]
 
-        TEXT = "Hey looks like you haven't join our chat yet, Please join first!"
+        TEXT = "𝗝𝗢𝗜𝗡 𝗧𝗛𝗜𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟"
 
         await bot.send_message(e.sender_id, TEXT, buttons=button)
 
