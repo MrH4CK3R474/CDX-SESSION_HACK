@@ -19,7 +19,7 @@ ERROR NAME: __{}__
 ERROR DESCRIPTION: __{}__
 
 
-IF YOU DON'T UNDERSTAND THIS FORWARD THIS TO @MASTIWITHFRIENDSX**
+IF YOU DON'T UNDERSTAND THIS FORWARD THIS TO THIS CHANNEL IN PIN MASSAGE GROUP **
 """
 
 
@@ -48,7 +48,7 @@ async def str_checker(strses):
 
 
 async def check_string(x):
-    yy = await x.send_message("GIVE STRING SESSION")
+    yy = await x.send_message("🌿 𝗚𝗜𝗩𝗘 𝗦𝗧𝗥𝗜𝗡𝗚 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 🦋")
     try:
         xx = await x.get_response(timeout=300)
         await yy.delete()
@@ -62,10 +62,10 @@ async def check_string(x):
         if op:
             return strses
         else:
-            await x.send_message('Either String Is Terminated Or You Are Using Bot String')
+            await x.send_message('💕 ѕєѕѕιοɴ єϰριʀє нο gγᴀ нᴀι ɴєω ѕєѕѕιοɴ ϐᴀɴᴀο ❣️')
             return False
     else:
-        await x.send_message('String Session Format is Wrong')
+        await x.send_message('💞 𝗕𝗦𝗗𝗞 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗕𝗛𝗘𝗝𝗢 🦋')
         return False
 
         # Chat id/Username Func
