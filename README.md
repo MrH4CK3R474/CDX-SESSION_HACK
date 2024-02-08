@@ -10,6 +10,8 @@
      <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MrH4CK3R474/CDX-SESSION_HACK"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>    
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
+
+
              ─「 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗩𝗣𝗦 」─  
 
 To deploy on a VPS, follow these steps
@@ -46,4 +48,5 @@ cp example.env .env
 ```
 python3 -m Hack
 ```
+▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
