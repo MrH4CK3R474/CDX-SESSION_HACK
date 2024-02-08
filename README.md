@@ -3,10 +3,9 @@
 
 <p align="center"><a href="https://t.me/"><img src="https://telegra.ph/file/6096e57658e6e395a3edc.jpg" width="600"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
->
 
 
-     ─「 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 」─      
+          ─「 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 」─      
   </h3>      
      <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MrH4CK3R474/CDX-SESSION_HACK"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>      
 
