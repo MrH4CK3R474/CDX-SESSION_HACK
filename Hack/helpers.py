@@ -173,7 +173,7 @@ def on_callback(data=None):
                         pass
                 else:
                     LOGGER(__name__).error(ERROR_TXT)
-                await e.reply("🌿 𝖤𝖵𝖤𝖱𝖸𝖳𝖧𝖨𝖭𝖦 𝖤𝖱𝖱𝖮𝖱 𝖱𝖤𝖯𝖮𝖱𝖳 𝖳𝖧𝖤 𝖢𝖧𝖠𝖭𝖭𝖤𝖫 🦋)
+                await e.reply('🌿 𝖤𝖵𝖤𝖱𝖸𝖳𝖧𝖨𝖭𝖦 𝖤𝖱𝖱𝖮𝖱 𝖱𝖤𝖯𝖮𝖱𝖳 𝖳𝖧𝖤 𝖢𝖧𝖠𝖭𝖭𝖤𝖫 🦋')
 
         bot.add_event_handler(wrap, CallbackQuery(data=data))
 
